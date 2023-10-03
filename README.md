@@ -1,7 +1,7 @@
 # Shopping mall SQL analysis
 
 ## Description
-In this project I explored a dataset based on the activities of shopping malls within Istanbul, Turkey. I was able to analyse each individual shopping mall, finding the top 5 shopping malls, the average price of different product types and if there is a seasonal change in how much money each shopping mall makes. The project also allowed me to delve deeper in the spending habits between both gender and age range, allowing me to identify average spend and popular products between the genders, the most sold product based on age range as well as the average price spend by each age range.
+This project involved exploring a dataset that captured the activities of shopping malls in Istanbul, Turkey. I analysed each shopping mall individually and identified the top five performers, the average prices of different product categories, and the seasonal variations in their revenues.  The dataset allowed me to delve deeper and examine the spending patterns of customers based on their gender and age group. I discovered the average amount and the most popular products for each gender, the best-selling product for each age group, and the average price paid by each age group.
 
 ## Skills
 Data Manipulation, CTE, Case Statements, Aggregate functions, Window Functions.
